@@ -1,5 +1,5 @@
 # Rotman MMA Datathon
-Team 2 - Approach Code
+Team 2 - Code for Project
 ### Usual Readme Stuff
 ... not yet written ...
 
