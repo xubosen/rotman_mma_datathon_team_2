@@ -1,16 +1,16 @@
 # Rotman MMA Datathon
 Team 2 - Approach Code
 ### Usual Readme Stuff
-...
+... not yet written ...
 
-### For Marco
-- I'll be working in the LM-Substitutes branch, so main branch is all yours. 
-- The 
-data path to our data is
-``
-data/mma_mart.csv
-``
-for all my code, so if you place your csv file in the ``data`` folder everything
-should work splendidly.
-- 
-- for the data without per item metric_b_score, and 
+### For Marco, from Simon
+- I'll be working in the LM-Substitutes branch, so the master branch is all 
+yours. 
+- The data path to our data is ``data/mma_mart.csv`` for all my code, so if 
+you place a copy of our data in the ``data`` folder everything should work 
+splendidly.
+- Some of the notebooks don't have good code comments because I either didn't 
+get to them or gave up half way. However, the 
+[baselines_and_metrics](baselines_and_metrics.ipynb) file should have everything
+ you need.
+- Have fun coding!
